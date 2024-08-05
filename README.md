@@ -1,3 +1,3 @@
 # June-2024-Group-001
-This is the Group 001 repository for the WaiPRACTICE June 2024 cohort.
+Find below the Group-001's blog for the WaiPRACTICE June 2024 cohort HobbyBot chatbot project.
 
